@@ -2,7 +2,7 @@
 Higher School of Economics
 
 Intro to Deep Learning
-Data Science for Kaggle Competion
+Data Science for Kaggle Competition
 Bayesian Methods for Machine Learning
 Reinforcement Learning
 Computer Vision
